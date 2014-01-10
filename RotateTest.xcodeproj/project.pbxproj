@@ -22,6 +22,7 @@
 		B88594E418806FAA000D3CE3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B88594C318806FAA000D3CE3 /* UIKit.framework */; };
 		B88594EC18806FAA000D3CE3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B88594EA18806FAA000D3CE3 /* InfoPlist.strings */; };
 		B88594EE18806FAA000D3CE3 /* RotateTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B88594ED18806FAA000D3CE3 /* RotateTestTests.m */; };
+		B88594F818807031000D3CE3 /* white_knight_160.png in Resources */ = {isa = PBXBuildFile; fileRef = B88594F718807031000D3CE3 /* white_knight_160.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		B88594E918806FAA000D3CE3 /* RotateTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "RotateTestTests-Info.plist"; sourceTree = "<group>"; };
 		B88594EB18806FAA000D3CE3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B88594ED18806FAA000D3CE3 /* RotateTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RotateTestTests.m; sourceTree = "<group>"; };
+		B88594F718807031000D3CE3 /* white_knight_160.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = white_knight_160.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 			isa = PBXGroup;
 			children = (
 				B88594CE18806FAA000D3CE3 /* AppDelegate.h */,
+				B88594F718807031000D3CE3 /* white_knight_160.png */,
 				B88594CF18806FAA000D3CE3 /* AppDelegate.m */,
 				B88594D118806FAA000D3CE3 /* Main_iPhone.storyboard */,
 				B88594D418806FAA000D3CE3 /* Main_iPad.storyboard */,
@@ -234,6 +237,7 @@
 				B88594D618806FAA000D3CE3 /* Main_iPad.storyboard in Resources */,
 				B88594DB18806FAA000D3CE3 /* Images.xcassets in Resources */,
 				B88594D318806FAA000D3CE3 /* Main_iPhone.storyboard in Resources */,
+				B88594F818807031000D3CE3 /* white_knight_160.png in Resources */,
 				B88594CA18806FAA000D3CE3 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
